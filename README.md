@@ -15,8 +15,6 @@ PyTorch 1.1.0
 scipy 1.4.1
 
 
-
-Introduction of our pa
 If this code helps, please star it and cite our paper as following:
 
 Yumeng Liang, Anfu Zhou, Huanhuan Zhang, Xinzhe Wen, Huadong Ma:
