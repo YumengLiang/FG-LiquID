@@ -2,7 +2,9 @@
 This is code of our deep learning model proposed in IMWUT 2021 paper 《FG-LiquID: A Contact-less Fine-grained Liquid Identifier by Pushing the Limits of Millimeter-wave Sensing》
 https://dl.acm.org/doi/10.1145/3478075
 
-You could replace your own data and generate the corresponding list 
+Just run train.sh or test.sh to start.  
+We are not going to make our full dataset public. 
+You could put your own data in the folder /data/dataset, and generate the corresponding data list in /data/trainlist.txt and /data/testlist.txt.  The data list is composed of the data path and its category label.
 
 It works well in the environment with:
 
