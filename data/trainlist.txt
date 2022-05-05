@@ -1,0 +1,2 @@
+./dataset/milk/milk98.mat 01 
+./dataset/pepsi/pepsi1.mat 03 
