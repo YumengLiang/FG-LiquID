@@ -21,6 +21,8 @@ Yumeng Liang, Anfu Zhou, Huanhuan Zhang, Xinzhe Wen, Huadong Ma:
 FG-LiquID: A Contact-less Fine-grained Liquid Identifier by Pushing the Limits of Millimeter-wave Sensing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5(3): 116:1-116:27 (2021)
 
 
-An introduce of our paper could be accessed in following address:
+An introduce of our paper could be accessed :
+
 Bilibili : https://www.bilibili.com/video/BV1KP4y1W7cD?spm_id_from=333.999.0.0
+
 YouTube: https://www.youtube.com/watch?v=w6XY68spQgs
