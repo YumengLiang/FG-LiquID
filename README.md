@@ -16,8 +16,13 @@ scipy 1.4.1
 
 
 
-
-If this code helps, please star it and cite our paper, Thanks!
+Introduction of our pa
+If this code helps, please star it and cite our paper as following:
 
 Yumeng Liang, Anfu Zhou, Huanhuan Zhang, Xinzhe Wen, Huadong Ma:
 FG-LiquID: A Contact-less Fine-grained Liquid Identifier by Pushing the Limits of Millimeter-wave Sensing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5(3): 116:1-116:27 (2021)
+
+
+An introduce of our paper could be accessed in following address:
+Bilibili : https://www.bilibili.com/video/BV1KP4y1W7cD?spm_id_from=333.999.0.0
+YouTube: https://www.youtube.com/watch?v=w6XY68spQgs
