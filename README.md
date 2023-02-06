@@ -15,7 +15,9 @@ PyTorch 1.1.0
 scipy 1.4.1
 
 
-If this code helps, please star it and cite our paper as following:
+The dataset of 30 kinds of liquids is uploaded here:  https://github.com/YumengLiang/dataset-of-mmwave
+
+If this code and dataset helps, please star it and cite our paper as following:
 
 Yumeng Liang, Anfu Zhou, Huanhuan Zhang, Xinzhe Wen, Huadong Ma:
 FG-LiquID: A Contact-less Fine-grained Liquid Identifier by Pushing the Limits of Millimeter-wave Sensing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5(3): 116:1-116:27 (2021)
